@@ -1,0 +1,40 @@
+* {
+    margin-top: 1rem;
+    box-sizing: border-box;
+  }
+  
+  body {
+    text-align: center;
+    background-color: #262a42;
+    margin-top: 4rem;
+  }
+  
+  h1 {
+    color: #DBEDF3;
+    font-size: 5rem;
+    font-family:"Arvo", cursive;
+    text-shadow:3px 0 #DA0463;
+  }
+  
+  .buttons {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 1rem;
+   height: 50vh;
+   align-content: center;
+  }
+  
+  button {
+    border-radius: 1.4rem;
+    padding: 30px;
+    border: 0.8rem solid #4d5583;
+    font-size: 4rem;
+    margin:1.5rem;
+  }
+  
+  footer {
+    color: white;
+    margin-top: 2rem;
+  }
+  
